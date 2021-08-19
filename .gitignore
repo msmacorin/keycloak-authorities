@@ -49,7 +49,7 @@ out/
 bin/
 tmp/
 .metadata
-.classpath
+#.classpath
 .project
 *.tmp
 *.bak
